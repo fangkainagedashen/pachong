@@ -1,0 +1,33 @@
+<html>
+          <head><title>用户体验系统</title></head>
+	  <script>
+	  	function show(){
+			var h= document.createElement("h2")
+			var textNode1 = document.createTextNode("小爬虫正在后台努力爬取数据中，请耐心等待...等待时间跟当前网速爬取URL数量有关");
+			row1.appendChild(textNode1);
+			h.appendChild(row1);
+			var mainbody = document.getElementById("mainbody");  
+				   mainbody.appendChild(h);
+
+}
+		function DisplayAndHiddenBtn(btnId, type) {                                                              
+                    var currentBtn = document.getElementById(btnId);
+                    if (type == "d") {
+                        currentBtn.style.display = "block"; //style中的display属性
+                    }
+                    else if (type == "h") {
+                        currentBtn.style.display = "none";
+                    }
+                }
+		//setTimeout("DisplayAndHiddenBtn('displayBtn','d')",1000);
+	  </script>
+          <body>
+            <form action='upload' enctype="multipart/form-data" method='post'>
+            <input type='file' name='file'/><br/><br>
+            <input type='submit' value='submit' onclick="DisplayAndHiddenBtn('displayBtn','d')" />
+            </form>
+	    <div id="mainbody">
+		<h3 id="displayBtn"  style="background-color:#FFF00FF; display:none;" >后台爬虫正在努力爬取中...请耐心等待，等待时间跟当前网速和爬取URL数量有关。<br>爬取完毕后会自动跳转到结果显示界面</h3>
+	    </div>
+          </body>
+        </html>

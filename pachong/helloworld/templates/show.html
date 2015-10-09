@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>用户体验系统结果显示</title>
+    <!-- 包含头部信息用于适应不同设备 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 包含 bootstrap 样式表 -->
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script>
+        
+
+		var str = '{{content}}';
+	//	alert(smsTypeDesc);
+		var temp = document.createElement('div');
+		    temp.innerHTML = str;
+		        str = temp.innerText || temp.textContent;
+			    temp = null;
+//		alert(str);
+		var smsTypeDesc = JSON.parse(str);
+//		alert(smsTypeDesc.data);
+//		for(var key in smsTypeDesc.data){
+//		alert(smsTypeDesc.data[key].main)
+//		}
+		function EnumaKey(){
+			for(var key in smsTypeDesc.data){
+				alert(smsTypeDesc.data[key].probe_time);
+			}
+		}
+		
+		function dongtai(id,innerHTML){
+		var div = document.createElement("div");
+		div.id = id;
+		div.innerHTML = innerHTML;
+		document.body.appendChild(div);
+		}
+		
+		function ba(a,b,c,d,e){
+			if (e == "0"){
+		var cell = document.createElement("tr");  
+	   var row1 = document.createElement("td");  
+	   var row2 = document.createElement("td");  
+	  var row3 = document.createElement("td");
+	  var row4 = document.createElement("td");
+	   var textNode1 = document.createTextNode(a)  
+	   var textNode2 = document.createTextNode(b);  
+	   var textNode3 = document.createTextNode(c); 
+	   var textNode4 = document.createTextNode(d); 
+	   row1.appendChild(textNode1);  
+	   row2.appendChild(textNode2);  
+	   row3.appendChild(textNode3);
+	   row4.appendChild(textNode4);
+	   cell.appendChild(row1);  
+	   cell.appendChild(row2);  
+	   cell.appendChild(row3);
+	   cell.appendChild(row4);
+	   var mainbody = document.getElementById("mainbody");  
+	   mainbody.appendChild(cell);  
+		} else {
+		var cell = document.createElement("tr");  
+		//cell.setAttribute("class","info");
+		cell.setAttribute("bgcolor","green");
+	   var row1 = document.createElement("td");  
+	   var row2 = document.createElement("td");  
+	  var row3 = document.createElement("td");
+	  var row4 = document.createElement("td");
+	   var textNode1 = document.createTextNode(a)  
+	   var textNode2 = document.createTextNode(b);  
+	   var textNode3 = document.createTextNode(c); 
+	   var textNode4 = document.createTextNode(d); 
+	   row1.appendChild(textNode1);  
+	   row2.appendChild(textNode2);  
+	   row3.appendChild(textNode3);
+	   row4.appendChild(textNode4);
+	   cell.appendChild(row1);  
+	   cell.appendChild(row2);  
+	   cell.appendChild(row3);
+	   cell.appendChild(row4);
+	   var mainbody = document.getElementById("mainbody");  
+	   mainbody.appendChild(cell);  
+		
+		}
+		
+	  
+		}
+		function ca(){
+		for(var key in smsTypeDesc.data){
+		ba(smsTypeDesc.data[key].local_time,smsTypeDesc.data[key].http_code,smsTypeDesc.data[key].url,smsTypeDesc.data[key].probe_time,smsTypeDesc.data[key].main);
+		}
+		}
+		function DisplayAndHiddenBtn(btnId, type) {
+		    var currentBtn = document.getElementById(btnId);
+		    if (type == "d") {
+			currentBtn.style.display = "block"; //style中的display属性
+		    }
+		    else if (type == "h") {
+			currentBtn.style.display = "none";
+		    }
+		}
+	setTimeout('ca()',1000);	
+	</script>
+</head>
+<body>
+ <pre hidden>
+	{{content}}
+</pre>
+
+<div>
+ <!--           <button  id="displayBtn" value="显示结果" style="background-color:#FFF00FF; display:block; margin:0px auto; text-align:center" onclick="DisplayAndHiddenBtn('displayBtn','h');ca()">(想看结果请点我，点击后我会自动消失)</button> --> 
+        </div>
+<!--	<a href="javascript:ca();" style="padding:6px; float:right;" ></a>-->
+ <div class="table-responsive">          
+       <table class="table table-bordered table-hover table-condensed" id ='table1'>
+  <!-- <caption>用户体验系统结果显示</caption> -->
+  <div class="text" style=" background-color:#FFF00FF;font-size:22px; text-align:center;">用户体验系统结果展示</div>
+   <thead>
+      <tr>
+         <th>local_time</th>
+         <th>http_code</th>
+         <th>url</th>
+	 <th>probe_time(秒)</th>
+      </tr>
+   </thead>
+   <tbody id="mainbody">
+      
+   </tbody>
+</table>
+
+<!-- JavaScript 放置在文档最后面可以使页面加载速度更快 -->
+    <!-- 可选: 包含 jQuery 库 -->
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!-- 可选: 合并了 Bootstrap JavaScript 插件 -->
+    <script src="http://apps.bdimg.com/libs/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </body>
+
+</html>

@@ -1,0 +1,633 @@
+<h3>data begin......</h3><pre><h3 style="color:blue">local_time		||url			||http_code||probe_time</h3></pre><span style="color:blue">2015-09-22 00:54:23.152905 || http://www.sohu.com/ || 200 || 0.069808</span>
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/style/global130716.css || 200 || 0.061062
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/style/layout130716.css || 200 || 0.076692
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/style/style150302.css || 200 || 0.065397
+2015-09-22 00:54:23.152905 || http://news.sohu.com/upload/itoolbar/index/itoolbar.2014071411.css || 200 || 0.059114
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images20130624/vd.png || 200 || 0.054471
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150922/34a9_f0d9fd65_5967_95a7_b903_4c10bdbf73ac_1.jpg || 200 || 0.05085
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150921/35a8_27c2ea6d_9029_503d_450c_cda0951491eb_1.jpg || 200 || 0.051477
+2015-09-22 00:54:23.152905 || http://i0.itc.cn/20150921/35a8_9036433b_df28_8fa6_16ad_d801b92db302_1.jpg || 200 || 0.047072
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150921/3616_4cb0f249_b7ea_ba67_ddd7_a6a9d845e6f6_1.jpg || 200 || 0.049573
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150922/34c2_fc8c5d9a_0280_00cf_7b10_fe41c1132247_1.jpg || 200 || 0.058126
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150922/330b_16338850_f0d0_d82b_5b6c_5f945e0f7059_2.jpg || 200 || 0.056568
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150922/2d43_894202a3_5af7_9d6c_f149_349c0a893e3e_1.jpg || 200 || 0.054835
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150920/35f2_c364b665_9210_bdb6_c1de_ebd4225a9618_1.jpg || 200 || 0.053677
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150921/340a_636b0cf1_24f5_61ca_0ca9_3f4c1015b9aa_1.jpg || 200 || 0.054625
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150921/340a_30a480aa_3d0a_8e6c_b4ce_aeec210c1555_1.jpg || 200 || 0.060329
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150921/340a_2f8001e8_d47f_48be_d306_12139202db50_1.jpg || 200 || 0.051683
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150921/350b_199f33ea_6bbb_7d88_40a9_d5a382680f1f_1.jpg || 200 || 0.051135
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images20130624/vd.png || 200 || 0.050383
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images20130624/vd.png || 200 || 0.047009
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images20130624/vd.png || 200 || 0.061998
+2015-09-22 00:54:23.152905 || http://i0.itc.cn/20150922/2edc_361a56ed_7ed5_6660_412e_939177e88013_1.jpg || 200 || 0.054652
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150921/34c2_31373499_b68c_f6e3_4993_c2ebf985bb2b_1.jpg || 200 || 0.051827
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150921/360d_6485a900_4118_f3ec_0426_c02d9bf7d66c_1.jpg || 200 || 0.047008
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150922/29e_d919ce7d_94f7_aa5b_0726_04489ef743c3_1.jpg || 200 || 0.052512
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20130609/2bab_7d56dde4_ed54_7168_6690_b809f967b3f5_1.jpg || 200 || 0.051909
+2015-09-22 00:54:23.152905 || http://i0.itc.cn/20150920/3640_fd6a2d71_160a_96bb_d3f7_63eaf009dc53_1.jpg || 200 || 0.052984
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150921/93a_50b3d25e_3fc7_07fe_3506_a1b1826350c7_1.jpg || 200 || 0.058327
+2015-09-22 00:54:23.152905 || http://i0.itc.cn/20150209/3190_f705e30b_9b83_1a41_efb9_bd14ddf0928d_1.jpg || 200 || 0.054554
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150817/354b_.jpg || 200 || 0.058921
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150921/344a_285b1649_bb50_d3fc_1f79_55158fc351f8_1.jpg || 200 || 0.051372
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150922/3184_da462d8d_a899_9098_88be_3ffa7ed62c04_1.jpg || 200 || 0.046943
+2015-09-22 00:54:23.152905 || http://i0.itc.cn/20150921/a3e_807dc128_45b3_1bbd_57b2_559c03339bc4_1.jpg || 200 || 0.045355
+2015-09-22 00:54:23.152905 || http://i2.itc.cn/20150922/310a_947e9cd7_e0ae_fca4_22b5_013029d8d30b_1.jpg || 200 || 0.05492
+2015-09-22 00:54:23.152905 || http://photocdn.sohu.com/recom/20150922/421762545_100_72.jpeg?pvid=725adae4dbd11180 || 200 || 0.101072
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150921/3196_fdb2fd16_752b_94b0_346a_11fa9d5b41c7_1.jpg || 200 || 0.054172
+2015-09-22 00:54:23.152905 || http://i2.17173.itc.cn/2015/news/wmh/09/sohu0921.jpg || 200 || 0.124501
+2015-09-22 00:54:23.152905 || http://p1.v.17173cdn.com/tfrquk/YWxqaGBf/vlog/20150918/181516/35dceee9-8c52-47f2-9ce1-6ccdfa0b2594.jpg || 200 || 0.118216
+2015-09-22 00:54:23.152905 || http://i3.itc.cn/20150922/89d_1971ae31_4733_0846_1c7d_542ddb43ed26_1.jpg || 200 || 0.056847
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/596d1367ac5aa066dcadfb2a4a2b3284.php?a=99 || 200 || 0.141329
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/e7fb5b2cc7e92eaea1c862ea59de2384.php?a=99 || 200 || 0.141286
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/1371b1157714a5048a788f62b176ad49.php?a=99 || 200 || 0.138896
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/70a0be8fd571d41204d6e4fd60429266.php?a=99 || 200 || 0.14293
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/c69244dd74c7c59852754c278d68f83d.php?a=99 || 200 || 0.127269
+2015-09-22 00:54:23.152905 || http://imp.optaim.com/201409/68d00d7c836a0360f1843e99d18c224e.php?a=99 || 200 || 0.138842
+2015-09-22 00:54:23.152905 || http://i1.itc.cn/20150921/2ee3_.jpg || 200 || 0.057042
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon01.jpg || 200 || 0.046222
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon02.jpg || 200 || 0.084485
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon103.gif || 200 || 0.04979
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon04.jpg || 200 || 0.055255
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon05.jpg || 200 || 0.048267
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon06.jpg || 200 || 0.053253
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon07.jpg || 200 || 0.051421
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon08.jpg || 200 || 0.067906
+2015-09-22 00:54:23.152905 || http://www.sohu.com/upload/images/server/icon109.gif || 200 || 0.052216
+2015-09-22 00:54:23.152905 || http://www.sohu.com/sohuflash_1.js || 200 || 0.114407
+2015-09-22 00:54:23.152905 || http://js.sohu.com/pv/pvclick1211071116.js || 200 || 0.083548
+2015-09-22 00:54:23.152905 || http://txt.go.sohu.com/ip/soip || 200 || 0.070642
+2015-09-22 00:54:23.152905 || http://news.sohu.com/upload/itoolbar/itoolbar.index.loader.20140923.js || 200 || 0.046786
+2015-09-22 00:54:23.152905 || http://images.sohu.com/saf/static/2/1000082.shtml || 200 || 0.047837
+2015-09-22 00:54:23.152905 || http://images.sohu.com/bill/s2012/gates/all/sohuad2012v15.js || 200 || 0.067344
+2015-09-22 00:54:23.152905 || http://images.sohu.com/bill/default/sohu-require.js || 200 || 0.069335
+2015-09-22 00:54:23.152905 || http://images.sohu.com/bill//s2014/gates/picmixedctrl.js || 200 || 0.046535
+2015-09-22 00:54:23.152905 || http://db.auto.sohu.com/attachment/js/new_model.js || 200 || 0.05906
+2015-09-22 00:54:23.152905 can not connect  http://creatim.qtmojo.cn/td/AllyesDeliver.min.js
+2015-09-22 00:54:23.152905 || http://static.mediav.com/js/mvf_g2.js || 200 || 0.116753
+2015-09-22 00:54:23.152905 || http://js.sohu.com/pv/spv1209061800.js || 200 || 0.068934
+<span style="color:blue">2015-09-22 00:54:38.360283 || https://www.baidu.com/ || 200 || 0.099314</span>
+<span style="color:blue">2015-09-22 00:54:38.465592 || http://www.taobao.com/ || 200 || 0.165257</span>
+2015-09-22 00:54:38.465592 can not connect //g.tbcdn.cn
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //gw.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //gtms01.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //gtms02.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //gtms03.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //gtms04.alicdn.com
+2015-09-22 00:54:38.465592 can not connect //log.mmstat.com
+2015-09-22 00:54:38.465592 can not connect //p.tanx.com
+2015-09-22 00:54:38.465592 can not connect //i.mmcdn.cn
+2015-09-22 00:54:38.465592 can not connect //delta.taobao.com
+2015-09-22 00:54:38.465592 can not connect //gtms03.alicdn.com/tps/i3/T1OjaVFl4dXXa.JOZB-114-114.png
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com/tb-mod/??tb-pad/1.0.1/index.css,tb-sitenav/1.0.1/index.css,tb-sysinfo/1.0.0/index.css,tb-sysbanner/1.0.0/index.css,tb-banner/1.0.5/index.css,tb-top-spy/1.0.4/index.css,tb-birthday/1.0.1/index.css,tb-search/1.0.14/index.css,tb-logo/1.0.5/index.css,tb-qr/1.0.0/index.css,tb-nav/1.0.4/index.css,tb-tanx/1.0.0/index.css,tb-promo/1.0.7/index.css,tb-tmall/1.0.6/index.css,tb-belt/1.0.1/index.css,tb-belt-slide/1.0.1/index.css,tb-sale/1.0.0/index.css,tb-helper/1.0.0/index.css,tb-footer/1.0.0/index.css,tb-decorations/1.0.25/index.css,tb-fixedtool/1.0.0/index.css,tb-market-ifashion/1.0.7/index.css,tb-market/1.0.2/index.css,tb-market2/1.0.3/index.css,tb-market-electronic/1.0.4/index.css,tb-market-diet/1.0.8/index.css,tb-oead/1.0.0/index.css,tb-market-furniture/1.0.5/index.css,tb-market-pannel/1.0.4/index.css,tb-ald/1.0.0/index.css,tb-notice/1.0.3/index.css,tb-member/1.0.7/index.css,tb-headlines/1.0.0/index.css,tb-conve/1.0.9/index.css,tb-apps/1.0.3/index.css,tb-feature/1.0.0/index.css,tb-discover-goods/1.0.3/index.css,tb-footprint/1.0.2/index.css,tb-discover-shop/1.0.3/index.css,tb-custom/1.0.0/index.css,tb-service/1.0.6/index.css,tb-cat/1.0.0/index.css,tb-rmdimg/1.0.0/index.css,tb-channel/1.0.1/index.css,tb-channel-travel/1.0.1/index.css,tb-guang/1.0.1/index.css,tb-channel2/1.0.3/index.css,tb-channel-edu/1.0.0/index.css
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com/??tb/global/3.5.18/global-min.css,tb-page/tbindex/1.0.120/index-min.css
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1F9RGJFXXXXcYXpXXIs2f6pXX-1190-90.jpg
+2015-09-22 00:54:38.465592 || http://gtms01.alicdn.com/tps/i1/TB1h3IXGFXXXXXsXFXXDANtWXXX-175-175.png || 200 || 0.052987
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com/s.gif
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1EMhjIpXXXXaPXVXXXXXXXXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1ZUXnIpXXXXbWXFXXXXXXXXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1xgIkHpXXXXXXaXXXc8PZ9XXX-130-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1qYhYHVXXXXbiXVXXc8PZ9XXX-130-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1k_bGHFXXXXX6XFXXc8PZ9XXX-130-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1K_UwIpXXXXX5XpXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1CR7sIpXXXXaBaXXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB12lcpIpXXXXbSXpXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1Vk3EIpXXXXXdXXXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1i4_.IpXXXXbkXXXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1sdAqIpXXXXczXpXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1NSFNHpXXXXcqXXXXc8PZ9XXX-130-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1MhgdIpXXXXcpXVXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1ejzHHFXXXXaJXFXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1Vg7yIpXXXXa8XVXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1KAsRIpXXXXbOXXXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1hln8IpXXXXaTXVXXy8jZ9XXX-130-200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1kYRKHpXXXXaKaXXXc8PZ9XXX-130-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/TB1WgndFVXXXXc1XpXXwu0bFXXX.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/TB1rVLKHpXXXXafaXXXSutbFXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/TB1FsffHXXXXXbaXVXXSutbFXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/i4/T1w8nUXn4aXXXQXDnq-90-45.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1NAeXFbBeXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1FPaZXCdeXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/TB1EO.SFVXXXXb3XXXXSutbFXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1xKvZFj0cXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/TB1qFXQFFXXXXaiapXXwu0bFXXX.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1x0imFvRjXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1utGfFf8gXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/i1/T1J51oXXVjXXXXXXXX-90-45.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1Z86AFXlbXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/i1/T1_5.YXa0bXXXQXDnq-90-45.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/i4/T1PgeoXmJOXXXXXXXX-90-45.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/bao/uploaded/T1x0imFvRjXXb1upjX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB18vs9JpXXXXadXVXXXXXXXXXX-120-55.png_120x120.jpg
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/imgextra/i1/346884669/TB211JtfpXXXXXoXpXXXXXXXXXX_!!346884669.jpg_120x120.jpg || 200 || 0.101949
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _400x400.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1vWEbIXXXXXahXXXXnLSnFXXX-880-70.png
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _150x150.jpg
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect _200x200.jpg
+2015-09-22 00:54:38.465592 can not connect _320x320.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1vWEbIXXXXXahXXXXnLSnFXXX-880-70.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1mbIjIFXXXXaWaXXXTNA.ZFXX-100-100.jpeg_70x70.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1fcZiIFXXXXasXVXXMxXJVFXX-100-100.jpg_70x70.jpg
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com/s.gif
+2015-09-22 00:54:38.465592 can not connect //gtms02.alicdn.com/tps/i2/TB11ZZfIVXXXXbMXFXXEDhGGXXX-32-32.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1hRb1IXXXXXX3XVXXXQaP.pXX-87-87.jpeg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1J_zWIXXXXXc2XVXXKrqMIXXX-65-65.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1zbrQIXXXXXbCXpXXUAkPJpXX-87-87.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1vI9cIpXXXXamXpXXgCfiJXXX-83-83.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1nFvPIXXXXXbUXXXXUAkPJpXX-87-87.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB15b5bIpXXXXa4XpXX07tlTXXX-200-200.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1CpD7IXXXXXbSXXXXUAkPJpXX-87-87.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1m7xmIpXXXXaEXVXXorWMIXXX-65-65.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1p6kgIXXXXXXTXXXXezUPJpXX-87-87.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1USx_IpXXXXa_XXXXKrqMIXXX-65-65.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1kK00JFXXXXc4XpXXwxCdHXXX-50-50.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1V5XRJFXXXXX.XXXXwxCdHXXX-50-50.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1kgc2JpXXXXcIXFXXwxCdHXXX-50-50.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1oDcuJpXXXXc_XXXXMxXJVFXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1isX9JFXXXXXpXpXXXXXXXXXX-200-200.jpg_100x100.jpg || 200 || 0.096595
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1Prx7JFXXXXcAXXXXXXXXXXXX-200-200.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB16mCiJXXXXXXCXpXXXXXXXXXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1KY.MIFXXXXclXVXXMxXJVFXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB14qJGIpXXXXagXpXXqxFJVFXX-100-100.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB17wnaIpXXXXcMXXXXXXXXXXXX.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1LvZtIXXXXXXYXVXXMluxHXXX-170-170.jpeg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1IcrSIXXXXXXSXFXXMxXJVFXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1rHnJIFXXXXXeapXX07tlTXXX-200-200.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1hfbcJXXXXXXYXXXXj64lTXXX-200-200.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1ILaDIVXXXXc4XpXXXXXXXXXX.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1dvGGJFXXXXarXFXXXXXXXXXX-200-200.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1wJTBJXXXXXc8XFXXXXXXXXXX-100-100.png?_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1TphvJFXXXXXWXVXXXXXXXXXX-100-100.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1iahFJFXXXXXkXVXXMxXJVFXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1w8XPJFXXXXcnXFXXTNA.ZFXX-100-100.jpeg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1260lJFXXXXaDXVXXXXXXXXXX-100-100.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1t2W9JXXXXXaFXpXXj64lTXXX-200-200.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB16KsiJpXXXXXSaXXXk7T82pXX-220-220.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB16kKvIXXXXXaAXVXXQAsJYXXX-180-180.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1eNRlJFXXXXXbXFXXj64lTXXX-200-200.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 || https://gw.alicdn.com/tps/TB1RdRcJFXXXXafXFXXXXXXXXXX-100-100.jpg_100x100.jpg || 200 || 0.104387
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1dq0yJFXXXXa8XFXXXXXXXXXX-150-150.jpg_100x100.jpg || 200 || 0.092891
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1j1k9JpXXXXXxXVXXXXXXXXXX-100-100.jpg_100x100.jpg || 200 || 0.091361
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1MvA_JpXXXXaqXVXXXXXXXXXX-100-100.jpg_100x100.jpg || 200 || 0.116339
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1.VVbJFXXXXbKXpXXXXXXXXXX-100-100.jpg_100x100.jpg || 200 || 0.109532
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB17lihIpXXXXabXXXX4_MlUFXX-280-280.png_100x100.jpg
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1Vz5fJFXXXXcBXVXXXXXXXXXX-170-100.jpg_200x200.jpg || 200 || 0.093116
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1nAGfJFXXXXc_XpXXXXXXXXXX-80-70.jpg_100x100.jpg || 200 || 0.147303
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1ov9fJFXXXXXkXFXXXXXXXXXX-80-70.jpg_100x100.jpg || 200 || 0.106516
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1HNHaIpXXXXaMXpXXMxXJVFXX-100-100.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1j_JOJFXXXXcOXpXX3bpXTXXX-170-100.png_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1.QBZJFXXXXclXXXXcy0wIpXX-70-70.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1nRBAJFXXXXcdXVXXcy0wIpXX-70-70.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1sYt0IFXXXXamXFXXXXXXXXXX.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB17N8zJFXXXXbPXVXXXXXXXXXX-169-100.jpg_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB11SNCJFXXXXXOXFXXcy0wIpXX-70-70.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1h2XXJFXXXXaDXVXXXXXXXXXX-70-70.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1oG1UIpXXXXbBXpXX4_MlUFXX-280-280.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1XppQJpXXXXXzXVXXGIya8pXX-340-200.jpg_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB17BBLJpXXXXccXVXXkWFWOVXX-160-140.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1wCwEJXXXXXciXVXXkWFWOVXX-160-140.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1_cV1IpXXXXaPXVXXZ6GBKFXX-150-150.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1TmXDJFXXXXXJXVXXkI5a8pXX-340-200.png_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1LntRJFXXXXbHXpXXkWFWOVXX-160-140.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1DitPJFXXXXcJXpXXkWFWOVXX-160-140.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1vcfQIXXXXXayXFXXgCfiJXXX-83-83.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1o8bmJpXXXXXsXVXXma0XTXXX-170-100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1WptBJFXXXXcYXFXXlGHK2VXX-70-70.jpeg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1CK4UIpXXXXbzXFXXZ6GBKFXX-150-150.png
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1S.u5JpXXXXbDXpXXOyPdGpXX-140-140.jpg_70x70.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1TTW9JXXXXXcKXpXXOyPdGpXX-140-140.jpg_70x70.jpg
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/tps/TB1CyPfJpXXXXcOXFXXXXXXXXXX-170-70.jpg_200x200.jpg || 200 || 0.121441
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/imgextra/i4/710497666/TB2t8v5dVXXXXa7XXXXXXXXXXXX_!!710497666.jpg_100x100.jpg || 200 || 0.088887
+2015-09-22 00:54:38.465592 || https://img.alicdn.com/imgextra/i3/2228300834/TB28GL0dVXXXXbWXXXXXXXXXXXX_!!2228300834.jpg_100x100.jpg || 200 || 0.091328
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1u7JUIpXXXXbeXFXX07tlTXXX-200-200.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1KXuyJFXXXXccXpXXXXXXXXXX-200-82.jpg_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1rwkxJXXXXXboXXXXXXXXXXXX-100-80.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1RO54JpXXXXXMaXXXXXXXXXXX-100-80.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1AOecIpXXXXcEXXXXZ6GBKFXX-150-150.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB1yfE6IFXXXXX8apXXe_h88pXX-340-144.png_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1eEJIJFXXXXa7XFXXGWXWOVXX-160-140.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1vyF1IFXXXXbXXFXXkWFWOVXX-160-140.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/TB1.6t9IpXXXXa7XXXXXXXXXXXX.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB14O2pIVXXXXcjXXXXQeq.IVXX-80-70.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1kfaYIVXXXXbsapXXQeq.IVXX-80-70.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i4/TB1wWpuJXXXXXXCXXXXQeq.IVXX-80-70.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB13Yy_JpXXXXbkXXXXQeq.IVXX-80-70.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1gZ0IIpXXXXX5aXXXZB1UIpXX-68-68.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i2/TB17XTDJpXXXXcZXFXX09l78pXX-340-140.jpg_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1JdPOJpXXXXbSXXXXGWXWOVXX-160-140.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB16oHQJpXXXXaZXXXXGWXWOVXX-160-140.jpg_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i3/TB1aPqAJpXXXXcSXVXXUVKc8pXX-340-180.png_200x200.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1rnjQJXXXXXXwXpXXU_TBVVXX-309-309.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //img.alicdn.com/tps/i1/TB1fGbQJpXXXXa.XFXXA9wBHpXX-246-246.png_100x100.jpg
+2015-09-22 00:54:38.465592 can not connect //g.alicdn.com/??kissy/k/1.4.14/seed-min.js,tb/global/3.5.18/global-min.js
+<span style="color:blue">2015-09-22 00:54:45.351091 || http://www.163.com/ || 200 || 0.054885</span>
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/www/logo/logo-ipad-icon.png || 200 || 0.063265
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922084739b292c.jpg || 200 || 0.061407
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/22/2015092208033448c54.jpg || 200 || 0.057381
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/ent/2015/9/22/20150922084917e3262.jpg || 200 || 0.05317
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/sports/2015/9/22/20150922073037643b0.jpg || 200 || 0.052108
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/auto/2015/9/22/20150922080159e92af.jpg || 200 || 0.088789
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/house/2015/9/21/20150921172535cd0f3.jpg || 200 || 0.066202
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/201509220747481c2f0.jpg || 200 || 0.053367
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/22/201509220704489a586.jpg || 200 || 0.07842
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/201509211041161cece.jpg || 200 || 0.053291
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/201509211039479e824.jpg || 200 || 0.066238
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/video/2015/9/21/20150921094905b71c9.jpg || 200 || 0.064988
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/video/2015/9/21/2015092109480390658.jpg || 200 || 0.094563
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921114546e04a8.jpg || 200 || 0.062202
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/201509211148458706d.jpg || 200 || 0.06138
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/201509211617483f3e2.jpg || 200 || 0.054505
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/21/2015092116135702e9d.jpg || 200 || 0.050572
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/20150921172131d2ddd.jpg || 200 || 0.066239
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/20150921091854b2407.jpg || 200 || 0.048923
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/18/20150918102846d786d.jpg || 200 || 0.065053
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/20150921095624000f6.jpg || 200 || 0.067457
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921192033ea3d5.jpg || 200 || 0.05305
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/2015092121301789d4b.jpg || 200 || 0.067868
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/20150921223841b7689.jpg || 200 || 0.091133
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/21/20150921215755dbc13.jpg || 200 || 0.059274
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/20150921093924671d5.jpg || 200 || 0.059108
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/201509220832542b981.jpg || 200 || 0.063091
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/201509220816496f23e.jpg || 200 || 0.049952
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/20150921230507eb50b.jpg || 200 || 0.06206
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/2015092117570572a0e.jpg || 200 || 0.067438
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/2015092117374239812.jpg || 200 || 0.047922
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/22/20150922083714d72a4.jpg || 200 || 0.26864
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/2015092121325371ba2.jpg || 200 || 0.06776
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/21/20150921173535f6403.jpg || 200 || 0.062529
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922084137b31c5.jpg || 200 || 0.049311
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/20150921165642d8186.jpg || 200 || 0.062264
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/20150921224912d9209.jpg || 200 || 0.059821
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922070901b865b.jpg || 200 || 0.050166
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/201509220818262c0c5.jpg || 200 || 0.065043
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/22/20150922070802c4e67.jpg || 200 || 0.057496
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/22/201509220706318928b.jpg || 200 || 0.05566
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/21/20150921094026733a7.gif || 200 || 0.073724
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/2015092110312543271.gif || 200 || 0.061884
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/f2e/www/index2014/images/slogan_e163.png || 200 || 0.055506
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/sports/2015/9/22/2015092208055348811.png || 200 || 0.068987
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/sports/2015/9/22/201509220719326a4fe.jpg || 200 || 0.072288
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/sports/2015/9/22/201509220728147e0f2.jpg || 200 || 0.054333
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/ent/2015/9/22/201509220851298cb6b.jpg || 200 || 0.058685
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/ent/2015/9/21/2015092109083142806.jpg || 200 || 0.045889
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/ent/2015/9/18/2015091811340230dba.jpg || 200 || 0.086521
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/21/20150921163656cdabb.gif || 200 || 0.049022
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/help/2015/4/24/20150424104332bb9d2.jpg || 200 || 0.060572
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921100413da8d3.jpg || 200 || 0.052245
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/20150921100844f56e8.jpg || 200 || 0.058915
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/2015092110061821ba9.jpg || 200 || 0.050438
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/18/201509181433570b5b0.jpg || 200 || 0.055524
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921173535675cd.jpg || 200 || 0.047511
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/20/20150920205029991e3.jpg || 200 || 0.048054
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/17/201509172101186da64.jpg || 200 || 0.055699
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/16/20150916220702f9832.jpg || 200 || 0.048246
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/stock/2015/9/22/2015092207523920890.jpg || 200 || 0.053144
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/stock/2015/9/21/2015092108354479d45.jpg || 200 || 0.056448
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/stock/2015/9/21/20150921180553bc6bf.jpg || 200 || 0.06029
+2015-09-22 00:54:45.351091 || http://img2.money.126.net/chart/hs/time/180x120/0000001.png || 200 || 0.067937
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/stock/2015/9/21/2015092109423221905.png || 200 || 0.080722
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/stock/2015/9/21/2015092109293368592.jpg || 200 || 0.062085
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/auto/2015/9/22/2015092208294365e5e.jpg || 200 || 0.052032
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/auto/2015/9/21/201509211011481b81b.jpg || 200 || 0.069462
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/auto/2015/9/21/20150921141212e2d18.jpg || 200 || 0.063361
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/auto/2015/9/21/2015092114125348656.jpg || 200 || 0.076726
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/auto/2015/9/21/20150921141304e6fc7.jpg || 200 || 0.061787
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/auto/2015/9/21/20150921141334b57c0.jpg || 200 || 0.131627
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/auto/2015/9/21/20150921082531fa6cf.jpg || 200 || 0.05895
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/auto/2015/9/22/201509220717470d1c5.jpg || 200 || 0.068323
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/tech/2015/9/22/201509220800459d800.jpg || 200 || 0.061491
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/m/2015/7/23/201507231038173e907.jpg || 200 || 0.048795
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/m/2015/6/4/201506040918552e7dc.png || 200 || 0.079927
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/m/2015/5/13/201505131048121af5f.png || 200 || 0.064326
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/m/2015/6/4/201506040951495c947.png || 200 || 0.064837
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/m/2015/4/29/2015042910383939d1f.png || 200 || 0.166738
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/m/2015/4/2/201504020924379ebec.png || 200 || 0.053882
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/mobile/2015/9/22/201509220832370ae9a.jpg || 200 || 0.051637
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/mobile/2015/9/22/2015092208104075836.jpg || 200 || 0.113153
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/digi/2015/9/21/201509210932593b4f3.jpg || 200 || 0.052544
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/2008/2013/7/9/201307091013085bf91.jpg || 200 || 0.053929
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/2008/2013/7/12/2013071210325382dca.jpg || 200 || 0.07185
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/2008/2013/7/12/20130712103035d56bc.jpg || 200 || 0.055266
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/2008/2013/7/2/201307021015385280f.jpg || 200 || 0.054334
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/2008/2013/7/3/20130703102237c68b0.jpg || 200 || 0.049893
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/club/2013/6/26/201306261846270b6cd.jpg || 200 || 0.060705
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/lady/2015/9/14/20150914095555dc0e8.jpg || 200 || 0.053689
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/lady/2015/9/11/201509111004396416a.jpg || 200 || 0.055013
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/lady/2015/8/26/20150826094742c3ec5.jpg || 200 || 0.443643
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/lady/2013/9/2/2013090210081056704.jpg || 200 || 0.059394
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/lady/2013/9/2/20130902101308162aa.jpg || 200 || 0.056249
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/lady/2013/9/2/20130902101958c8452.jpg || 200 || 0.07591
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/house/2015/9/22/20150922083015e75e6.jpg || 200 || 0.047633
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/home/2015/9/21/201509211728133b293.jpg || 200 || 0.046477
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/home/2015/9/21/201509211232379c29b.jpg || 200 || 0.055164
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/home/2015/9/21/2015092110473140865.jpg || 200 || 0.055164
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/home/2015/9/21/2015092107443561627.jpg || 200 || 0.057867
+2015-09-22 00:54:45.351091 || http://img1.126.net/channel1/gx_logo.png || 200 || 0.046581
+2015-09-22 00:54:45.351091 || http://fa.163.com/ext/popularize/163mainpic.do || 200 || 0.079299
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/201509211027269b4af.jpg || 200 || 0.048088
+2015-09-22 00:54:45.351091 || http://img1.126.net/channel14/i6_28070_0108.jpg || 200 || 0.055265
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/lady/2015/9/22/201509220046200d5e3.jpg || 200 || 0.051266
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/lady/2015/9/21/2015092122275068b90.jpg || 200 || 0.064006
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/201509220746437a8b0.png || 200 || 0.057292
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/lady/2015/9/22/20150922082534befa9.jpg || 200 || 0.060255
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/lady/2015/9/21/20150921171505b45ee.jpg || 200 || 0.059545
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/lady/2015/9/21/20150921174231797e5.jpg || 200 || 0.061932
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/edu/2015/9/22/20150922010618addfb.jpg || 200 || 0.088076
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/edu/2015/9/22/20150922020822e28a2.jpg || 200 || 0.060317
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/travel/2015/9/22/201509220829190d77b.jpg || 200 || 0.051502
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922083503cfa78.jpg || 200 || 0.059248
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/201509220836499cbd2.jpg || 200 || 0.051595
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922080421b9d94.jpg || 200 || 0.049137
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/20150922071036174d7.jpg || 200 || 0.128699
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/game/esports/daily/0921s10.jpg || 200 || 0.059292
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/game/2015/9/21/20150921225726379bf.jpg || 200 || 0.052785
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/game/ty/092101.jpg || 200 || 0.071009
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/help/2015/9/21/20150921163925ca3b5.gif || 200 || 0.065742
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/help/2015/9/21/20150921175019ff0c9.jpg || 200 || 0.06527
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/help/2015/7/15/20150715124813e698f.jpg || 200 || 0.051806
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/help/2015/7/15/20150715141156a52e8.jpg || 200 || 0.088754
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/help/2015/8/24/201508241604575d6f2.jpg || 200 || 0.064289
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/help/2015/7/30/2015073011390860dd8.jpg || 200 || 0.252572
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/house/2015/9/21/20150921093438779f5.jpg || 200 || 0.08215
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/blog/2015/9/18/201509181623111e72d.jpg || 200 || 0.049985
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/blog/2015/8/28/20150828135546c350f.jpg || 200 || 0.401243
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/blog/2015/8/3/20150803142915ddfda.jpg || 200 || 0.059919
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/blog/2015/8/3/20150803141411dfdd2.jpg || 200 || 0.061041
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/blog/2015/8/3/2015080314124974a2d.jpg || 200 || 0.053139
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/blog/2015/8/3/2015080314050104f2f.jpg || 200 || 0.075661
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/blog/2015/8/3/20150803135430346b0.jpg || 200 || 0.067726
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/Zt8Zd139B1y268VnVr7tRQ==/6630332192420358859.jpg || 200 || 0.131173
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/30zaaaqaNJfO9N2KSZnxtQ==/6630493820629641105.jpg || 200 || 0.122604
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/fgQDH36h8Wi08U4KHyCycw==/6630887445792677559.jpg || 200 || 0.105865
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/ldp_d79_59NlawJ4bgDCGw==/6630425650908718650.jpg || 200 || 0.114932
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/O5XqpgK2j2WNVEzOSCCQqw==/6630107892048288867.jpg || 200 || 0.12976
+2015-09-22 00:54:45.351091 || http://imgcdn.ph.126.net/RHvpZzraORxYhUUXgvPK6Q==/6630425650908718651.jpg || 200 || 0.147325
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/2015092110090563525.jpg || 200 || 0.096963
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/20150921165642d8186.jpg || 200 || 0.061107
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/20150921224912d9209.jpg || 200 || 0.066095
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/21/2015092115134136444.jpg || 200 || 0.051524
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/17/2015091715424152c1a.jpg || 200 || 0.06934
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/16/20150916235436df155.jpg || 200 || 0.062177
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/15/20150915182432cbbcf.jpg || 200 || 0.080961
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/book/2015/9/21/201509210958305125a.jpg || 200 || 0.164411
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/book/2013/12/2/20131202150012c98fd.png || 200 || 0.068182
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/book/2015/9/12/201509120051512a3b6.jpg || 200 || 0.064666
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/book/2015/9/21/2015092110012697c82.jpg || 200 || 0.062635
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/edu/2015/9/17/2015091714151317778.jpg || 200 || 0.052855
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/edu/2015/9/17/20150917100803827e9.jpg || 200 || 0.054847
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/edu/2015/9/17/20150917174457f7781.jpg || 200 || 0.058571
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/edu/2015/9/17/2015091717485116744.jpg || 200 || 0.10159
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/edu/2015/9/17/201509171421495de86.jpg || 200 || 0.069202
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/edu/2015/9/14/2015091410220570b2a.jpg || 200 || 0.090164
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/edu/2015/9/18/201509181404323f38e.jpg || 200 || 0.048858
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/edu/2015/9/14/20150914103454cf2fb.jpg || 200 || 0.071919
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/edu/2015/9/14/20150914103900fe803.jpg || 200 || 0.056967
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/edu/2015/9/14/20150914104138be78e.jpg || 200 || 0.050709
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922074455b0b29.jpg || 200 || 0.058132
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/15/20150915080810186ec.jpg || 200 || 0.057307
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/10/2015091008064660bc9.jpg || 200 || 0.326599
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/1/20150901074628640ab.jpg || 200 || 0.060559
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/8/20/20150820085747706ca.jpg || 200 || 0.067884
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/8/12/20150812092153b8f4d.jpg || 200 || 0.059517
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/life/2013/7/22/201307221415589ef76.jpg || 200 || 0.061412
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/2008/2013/7/22/20130722101958237d7.jpg || 200 || 0.052278
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/life/2013/7/22/201307221105520e8f5.jpg || 200 || 0.050941
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/life/2015/7/10/201507101146491f388.jpg || 200 || 0.082309
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/life/2013/9/2/2013090210453982d94.jpg || 200 || 0.068834
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/life/2013/9/2/20130902104913f759d.jpg || 200 || 0.051225
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/ent/2014/8/27/2014082717410932858.jpg || 200 || 0.055279
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/ent/2015/4/15/20150415133808d09bd.jpg || 200 || 0.077783
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/ent/2015/4/15/201504151322052beb3.jpg || 200 || 0.058769
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/ent/2015/4/15/20150415133309e16e8.jpg || 200 || 0.072456
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/ent/2015/4/15/20150415132714fdfb5.jpg || 200 || 0.057382
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/ent/2015/4/15/201504151335398131c.jpg || 200 || 0.052598
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922005722984b2.jpg || 200 || 0.066759
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922005625d9f53.jpg || 200 || 0.054
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/2015092200544220ed6.jpg || 200 || 0.06006
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922005414594f0.jpg || 200 || 0.066283
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/22/20150922005336851cd.jpg || 200 || 0.059207
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/22/20150922005239a9848.jpg || 200 || 0.076325
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/lady/2015/5/11/20150511112900d0aa2.png || 200 || 0.056077
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/lady/2015/9/21/2015092111140309e35.jpg || 200 || 0.071487
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/lady/2015/9/21/2015092111174555a87.jpg || 200 || 0.070449
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/lady/2015/9/8/20150908101006b6639.jpg || 200 || 0.060575
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/lady/2015/9/8/201509081013374f033.jpg || 200 || 0.059636
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/lady/2015/9/8/20150908101613c1217.jpg || 200 || 0.077049
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/21/20150921173838a52cb.jpg || 200 || 0.069418
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/20/20150920205923a57f3.jpg || 200 || 0.062438
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/17/20150917175539e3e5d.jpg || 200 || 0.052552
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/18/20150918130308db1c0.jpg || 200 || 0.071744
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/18/20150918130325b4401.jpg || 200 || 0.098445
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/18/20150918130350ef2ef.jpg || 200 || 0.055412
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/7/13/201507131556554b9e5.png || 200 || 0.056269
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921111947528e9.jpg || 200 || 0.052465
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/21/20150921112027ae3ef.png || 200 || 0.052882
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/21/20150921112057f4c29.png || 200 || 0.056956
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/21/20150921112128d82db.jpg || 200 || 0.056391
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/9/21/201509211121593db7a.png || 200 || 0.079634
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/cnews/2015/6/10/201506101159148eec6.png || 200 || 0.069091
+2015-09-22 00:54:45.351091 || http://img4.cache.netease.com/cnews/2015/9/12/201509121005253e2f5.jpg || 200 || 0.061758
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/12/20150912095336e405b.jpg || 200 || 0.071775
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/6/201509061558169a674.png || 200 || 0.073638
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/8/31/2015083115553110f49.jpg || 200 || 0.063034
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/8/28/20150828093533c0682.png || 200 || 0.081406
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/7/7/2015070723115593d00.jpg || 200 || 0.051907
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/2015/9/22/20150922070819bc0eb.jpg || 200 || 0.056838
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922070856d7825.jpg || 200 || 0.149294
+2015-09-22 00:54:45.351091 || http://img2.cache.netease.com/cnews/2015/9/22/20150922070925ac33e.jpg || 200 || 0.073314
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/2015/9/22/20150922071017d4672.jpg || 200 || 0.057572
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/2015/9/22/20150922071057df4b6.jpg || 200 || 0.1272
+2015-09-22 00:54:45.351091 || http://163.wrating.com/a.gif?a=&c=860010-0503010000 || 204 || 0.108491
+2015-09-22 00:54:45.351091 || http://adgeo.163.com/ad_cookies || 200 || 0.107078
+2015-09-22 00:54:45.351091 || http://img3.cache.netease.com/cnews/js/ntes_jslib_1.0.2.js || 200 || 0.055535
+2015-09-22 00:54:45.351091 || http://ipservice.163.com/ipquery || 200 || 0.108161
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/js/ntes_jslib_ui_0.0.1.js || 200 || 0.072585
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/cnews/img/gallery11/ntes_ui_scroll.js || 200 || 0.053355
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/cnews/js/ntes_ui/ntes_ui_slide_0.3.2_min.js || 200 || 0.06028
+2015-09-22 00:54:45.351091 || http://img6.cache.netease.com/common/script/wrating.js || 200 || 0.049697
+2015-09-22 00:54:45.351091 || http://analytics.163.com/ntes.js || 200 || 0.108301
+2015-09-22 00:54:45.351091 || http://img1.cache.netease.com/f2e/products/analysis/js/analysis.350ctAoOoFtN.12.js || 200 || 0.056923
+2015-09-22 00:54:45.351091 || http://img5.cache.netease.com/common/script/meter.min.js || 200 || 0.061546
+2015-09-22 00:54:45.351091 || http://g.163.com/r?site=netease&affiliate=homepage&cat=homepage&type=richmedia&location=1 || 200 || 0.10355
+2015-09-22 00:54:45.351091 || http://g.163.com/jr?site=netease&affiliate=homepage&cat=homepage&type=adend&location=1 || 200 || 0.097164
+2015-09-22 00:54:45.351091 || http://img2.126.net/ntesrich/2015/0915/dlbox-index-2015.09.15-v2.js || 200 || 0.056734
+2015-09-22 00:54:45.351091 || http://img2.126.net/ntesrich/auto/adbox/adbox-v1.1.2-120705.js || 200 || 0.061996
+2015-09-22 00:54:45.351091 || http://img2.126.net/ntesrich/2013/1210/adControl-indexx-v1.0.2-131210.js || 200 || 0.055836
+2015-09-22 00:54:45.351091 || http://g.163.com/jr?site=netease&affiliate=homepage&cat=homepage&type=popup&location=1 || 200 || 0.098561
+<span style="color:blue">2015-09-22 00:56:04.516553 || http://www.iqiyi.com/ || 200 || 0.050931</span>
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/images/logo.ico || 200 || 0.055981
+2015-09-22 00:56:04.516553 || http://static.qiyi.com/css/common/v3-index-iqiyi/index-iqiyi-v1.css || 200 || 0.060099
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/20130423143600/fix/H5-114x114.png || 200 || 0.063861
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/20130423143600/fix/H5-72x72.png || 200 || 0.048523
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/images/load.gif || 200 || 0.061805
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/index_images/logo110x36_new.png || 200 || 0.048473
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/index_images/logoyxpz_new.png || 200 || 0.054033
+2015-09-22 00:56:04.516553 || http://pic8.qiyipic.com/common/20150922/cd144c81ac97411489625f0e2a34e9b9.jpg || 200 || 0.073262
+2015-09-22 00:56:04.516553 || http://pic6.qiyipic.com/common/20150922/9a56ee12172c4fdaa3095761177af627.jpg || 200 || 0.061233
+2015-09-22 00:56:04.516553 || http://pic9.qiyipic.com/common/20150922/b0475ca6933048878a0d5120aa39661f.jpg || 200 || 0.287404
+2015-09-22 00:56:04.516553 || http://pic6.qiyipic.com/common/20150921/aeee7a3f09834892950ba067f6da655c.jpg || 200 || 0.307021
+2015-09-22 00:56:04.516553 || http://pic8.qiyipic.com/common/20150921/8facce82ff274e75825d31c2cc6fc45a.jpg || 200 || 0.244072
+2015-09-22 00:56:04.516553 || http://pic6.qiyipic.com/common/20150921/350009a7c35c4740b12529c28276f452.jpg || 200 || 0.232142
+2015-09-22 00:56:04.516553 || http://pic8.qiyipic.com/common/20150914/d7c5d6e0360740d2a406095b657d6476.jpg || 200 || 0.212347
+2015-09-22 00:56:04.516553 || http://pic7.qiyipic.com/common/20150918/67322f224834447eb79215cb4d310804.png || 200 || 0.218963
+2015-09-22 00:56:04.516553 || http://pic9.qiyipic.com/common/20150921/06b553a41bf94705b043db4ca8225a8f.jpg || 200 || 0.119526
+2015-09-22 00:56:04.516553 || http://pic8.qiyipic.com/common/20150921/85471521c3e341648c36180dd79d50ab.jpg || 200 || 0.137155
+2015-09-22 00:56:04.516553 || http://pic0.qiyipic.com/common/20150921/56055ed0d5104fce870394d18b4484a7.jpg || 200 || 0.204931
+2015-09-22 00:56:04.516553 || http://pic2.qiyipic.com/common/20150921/850fe033f8cb41e7b1f9f69503fcd285.jpg || 200 || 0.237309
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/trust.png || 200 || 0.086906
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/records.png || 200 || 0.105269
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/reportIcon.png || 200 || 0.064125
+2015-09-22 00:56:04.516553 || http://pic7.qiyipic.com/common/20150805/2a2984aacccb4eb3ac061341f17c5a34c.png || 200 || 0.055427
+2015-09-22 00:56:04.516553 || http://pic2.qiyipic.com/common/20141024/632dafade0434e5ebe86828d63d2b6ab.jpg || 200 || 0.077186
+2015-09-22 00:56:04.516553 || http://pic0.qiyipic.com/common/20131030/c8540bb4b2a6427a859e89e29fcc60ae.jpg || 200 || 0.113621
+2015-09-22 00:56:04.516553 || http://pic9.qiyipic.com/common/20131030/fe0d4dcdcd2a4da3b701ce803c31370d.jpg || 200 || 0.080117
+2015-09-22 00:56:04.516553 || http://pic0.qiyipic.com/common/20131030/3e2fef4870ce439aae5e894ad51047d3.jpg || 200 || 0.087867
+2015-09-22 00:56:04.516553 || http://www.qiyipic.com/common/fix/site/cbwjyxkz.jpg || 200 || 0.066832
+2015-09-22 00:56:04.516553 || http://b.scorecardresearch.com/p?c1=2&c2=7290408&cv=2.0&cj=1 || 200 || 0.15918
+2015-09-22 00:56:04.516553 || http://static.iqiyi.com/js/lib/sea1.2.js || 200 || 0.07319
+<span style="color:blue">2015-09-22 00:56:49.273048 || http://www.oschina.net/ || 200 || 0.223388</span>
+2015-09-22 00:56:49.273048 can not connect /img/favicon.ico?t=1420773625000
+2015-09-22 00:56:49.273048 can not connect /css/channel.css?t=1427230527000
+2015-09-22 00:56:49.273048 can not connect /js/2011/fancybox/jquery.fancybox-1.3.4.css?t=1420773622000
+2015-09-22 00:56:49.273048 || http://www.oschina.net/project/rss || 200 || 0.191921
+2015-09-22 00:56:49.273048 || http://www.oschina.net/news/rss || 200 || 0.679375
+2015-09-22 00:56:49.273048 || http://www.oschina.net/question/rss || 200 || 0.158493
+2015-09-22 00:56:49.273048 || http://www.oschina.net/translate/rss || 200 || 0.150271
+2015-09-22 00:56:49.273048 || http://www.oschina.net/blog/rss || 200 || 0.233713
+2015-09-22 00:56:49.273048 || http://www.oschina.net/code/rss || 200 || 0.15695
+2015-09-22 00:56:49.273048 || http://www.oschina.net/code/source_rss || 200 || 0.35775
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/nature.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/object.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/people.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/place.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/Sysmbols.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/team/grunt/dist/emoji/twemoji.css?t=1436099992000
+2015-09-22 00:56:49.273048 can not connect /js/poshytip/tip-yellowsimple/tip-yellowsimple.css?t=1420773622000
+2015-09-22 00:56:49.273048 || http://www.oschina.net/project/rss || 200 || 0.164173
+2015-09-22 00:56:49.273048 can not connect /css/oschina2013.css?t=1436099978000
+2015-09-22 00:56:49.273048 can not connect /css/team/font-awesome/font-awesome.css?t=1436099978000
+2015-09-22 00:56:49.273048 can not connect /img/team.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/arrow.png?t=1420773624000
+2015-09-22 00:56:49.273048 can not connect /img/git.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/arrow.png?t=1420773624000
+2015-09-22 00:56:49.273048 can not connect /img/sonar.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/arrow.png?t=1420773624000
+2015-09-22 00:56:49.273048 can not connect /img/paas.png?t=1427230529000
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/ad/index_banner_one_eoRNp.jpg || 200 || 0.137293
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/ad/index_banner_two_mSjns.jpg || 200 || 0.174978
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/ad/index_banner_three_EFC1_KOvzU.jpg || 200 || 0.112614
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/space/2015/0902/230535_dBKX_865233.jpg || 200 || 0.3054
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/space/2015/0902/230333_lWoS_865233.png || 200 || 0.138783
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/ad/index_banner_five_pqDJl.png || 200 || 0.134126
+2015-09-22 00:56:49.273048 can not connect /img/portrait.gif?t=1420773625000
+2015-09-22 00:56:49.273048 can not connect /js/ke/plugins/emoticons/18.gif
+2015-09-22 00:56:49.273048 can not connect /js/ke/plugins/emoticons/18.gif
+2015-09-22 00:56:49.273048 can not connect /js/ke/plugins/emoticons/18.gif
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/13/27238_50.jpg?t=1383275393000 || 200 || 0.086977
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/276/553243_50.png?t=1440752887000 || 200 || 0.118808
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/1225/2451545_50.jpg?t=1441441188000 || 200 || 0.093643
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/883/1767531_50.jpg?t=1442046738000 || 200 || 0.122618
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/995/1991026_50.jpg?t=1416931477000 || 200 || 0.099152
+2015-09-22 00:56:49.273048 can not connect /js/ke/plugins/emoticons/82.gif
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/623/1247628_50.jpg?t=1435509453000 || 200 || 0.144277
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/1157/2315633_50.jpg?t=1442546836000 || 200 || 0.102233
+2015-09-22 00:56:49.273048 can not connect /img/img.gif?t=1420773624000
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/100/201203_50.jpg?t=1413987546000 || 200 || 0.133296
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/user/106/213622_50.jpg?t=1416531089000 || 200 || 0.086661
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/img/201509/09120047_SpEn.png || 200 || 0.119367
+2015-09-22 00:56:49.273048 can not connect /img/team.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/git.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/sonar.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect /img/paas.png?t=1427230529000
+2015-09-22 00:56:49.273048 can not connect img/ostools.gif
+2015-09-22 00:56:49.273048 can not connect /img/runjs_logo.gif
+2015-09-22 00:56:49.273048 can not connect /img/events/logo.png?t=1420773625000
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/space/2013/0813/111924_i4x6_179699.jpg || 200 || 0.06223
+2015-09-22 00:56:49.273048 || http://static.oschina.net/uploads/space/2013/0304/160442_8Fw6_179699.png || 200 || 0.139163
+2015-09-22 00:56:49.273048 can not connect /js/2012/jquery-1.7.1.min.js?t=1420773622000
+2015-09-22 00:56:49.273048 can not connect /js/2012/jquery.form.js?t=1420773622000
+2015-09-22 00:56:49.273048 can not connect /js/2011/fancybox/jquery.fancybox-fixed.js?t=1420773622000?2014031702
+2015-09-22 00:56:49.273048 can not connect /js/poshytip/jquery.poshytip.min.js?t=1420773622000
+2015-09-22 00:56:49.273048 can not connect /js/2011/oschina.js?t=1420773622000
+2015-09-22 00:56:49.273048 can not connect /js/utils.js?t=1420773622000
+2015-09-22 00:56:49.273048 can not connect /js/channel.js?t=1436100011000?2014022501
+<span style="color:blue">2015-09-22 00:57:13.019737 || http://www.ctrip.com/ || 200 || 0.217808</span>
+2015-09-22 00:57:13.019737 can not connect //webresource.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //pic.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //images3.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //dimg04.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //dimg11.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //crm.ws.ctrip.com
+2015-09-22 00:57:13.019737 can not connect //s.c-ctrip.com
+2015-09-22 00:57:13.019737 can not connect //www.google-analytics.com
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/ResCRMOnline/R5/css/index/private_index.A_v3.css?ws_www20150907.css || 200 || 0.217203
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/ResCRMOnline/R1/css/index/head_index_v3.css?v=20150512?temp=20150916 || 200 || 0.233705
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/platform/online/home/pic_market_20150901.jpg || 200 || 0.108177
+2015-09-22 00:57:13.019737 || http://pic.ctrip.com/common/loading.gif || 200 || 0.125528
+2015-09-22 00:57:13.019737 || http://pic.ctrip.com/common/loading.gif || 200 || 0.142968
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/index/v3.0/supply_icon.png || 200 || 0.160678
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/index/v3.0/supply_icon.png || 200 || 0.106794
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/index/v3.0/supply_icon.png || 200 || 0.144434
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/index/v3.0/supply_icon.png || 200 || 0.122491
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/vacation_v2/visa/24-japan.png || 200 || 0.141931
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/vacation_v2/visa/24-korea.png || 200 || 0.127165
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/vacation_v2/visa/24-USA.png || 200 || 0.117618
+2015-09-22 00:57:13.019737 || http://pic.c-ctrip.com/vacation_v2/visa/24-Australia.png || 200 || 0.097536
+2015-09-22 00:57:13.019737 || http://images3.c-ctrip.com/vacationUED_pic/meiya.png || 200 || 0.121081
+2015-09-22 00:57:13.019737 || http://images3.c-ctrip.com/vacationUED_pic/pingan.png || 200 || 0.112946
+2015-09-22 00:57:13.019737 || http://images3.c-ctrip.com/vacationUED_pic/renshou.png || 200 || 0.11384
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/code/cquery/LABjs/LAB.js?20130116.js || 200 || 0.097827
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/ResCRMOnline/R1/js/float/headFloat.min.js?20150907.js || 200 || 0.113129
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/ResH5SearchOnline/allsearch.js?20150825 || 200 || 0.108647
+2015-09-22 00:57:13.019737 || http://webresource.c-ctrip.com/ResCRMOnline/R1/pageheader/js/Ctrip2013JS.js?temp=20150916 || 200 || 0.117672
+<span style="color:blue">2015-09-22 00:57:17.689947 || http://www.autohome.com/ || 200 || 0.161005</span>
+2015-09-22 00:57:17.689947 can not connect //x.autoimg.cn
+2015-09-22 00:57:17.689947 can not connect //autohome.adsame.com
+2015-09-22 00:57:17.689947 can not connect //car.autohome.com.cn
+2015-09-22 00:57:17.689947 can not connect //sou.autohome.com.cn
+2015-09-22 00:57:17.689947 can not connect //stats.autohome.com.cn
+2015-09-22 00:57:17.689947 can not connect //dealer.api.autohome.com.cn
+2015-09-22 00:57:17.689947 can not connect //msg.autohome.com.cn
+2015-09-22 00:57:17.689947 || http://www.autohome.com.cn/images/ipad_logo_auto.png || 200 || 0.193557
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/www/common/images/logo.png || 200 || 0.185729
+2015-09-22 00:57:17.689947 || http://www0.autoimg.cn/zx/newspic/2015/9/21/368x184_0_2015092118494938782.jpg || 200 || 0.17424
+2015-09-22 00:57:17.689947 || http://img.autohome.com.cn/newspic/2014/11/3/2014110317290004439.png || 200 || 0.325957
+2015-09-22 00:57:17.689947 || http://img.autohome.com.cn/newspic/2014/11/3/2014110317043739461.png || 200 || 0.199283
+2015-09-22 00:57:17.689947 || http://img.autohome.com.cn/newspic/2014/11/3/2014110317284723621.jpg || 200 || 0.176111
+2015-09-22 00:57:17.689947 || http://img.autohome.com.cn/zx/newspic/2015/6/30/2015063008212326790.jpg || 200 || 0.144132
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.111616
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.184057
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.180035
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.136206
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.100971
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.123739
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.185849
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.159904
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/as/images/btn-loading.gif || 200 || 0.171301
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/www/index/2014/images/foot_credit.gif || 200 || 0.121514
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/www/index/2014/images/foot_record.gif || 200 || 0.124395
+2015-09-22 00:57:17.689947 || http://www0.autoimg.cn/zx/newspic/2015/9/21/2015092115271574617.jpg || 200 || 0.121088
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/pv/js/ga-count.js || 200 || 0.096847
+2015-09-22 00:57:17.689947 || http://x.autoimg.cn/stats/ahpv/pvevent_all.js || 200 || 0.170052
+2015-09-22 00:57:17.689947 || http://33.autohome.com.cn/njs/10055.js?timestamp=085006 || 200 || 0.160875
+2015-09-22 00:57:17.689947 || http://33.autohome.com.cn/nojs/1.js?timestamp=201509220850 || 200 || 0.149193
+2015-09-22 00:57:17.689947 || http://33.autohome.com.cn/nojs/1_1.js?timestamp=201509220850 || 200 || 0.158484
+2015-09-22 00:57:17.689947 || http://33.autohome.com.cn/getcookie.js?timestamp=2014040110301 || 200 || 0.128593
